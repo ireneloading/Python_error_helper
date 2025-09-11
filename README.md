@@ -15,8 +15,8 @@ Helps beginners understand what went wrong and how to fix it — without the jar
 
 ## Screenshots
 
-Input an Error
-<img src="screenshots/form.png" alt="Error input form" width="500"/>
+### Input an Error
+<img src="Error explainer3.JPG" alt="Error input form" width="500"/>
 
-Explanation Output
-<img src="screenshots/result.png" alt="Explanation output" width="500"/>
+### Output Explanation
+<img src="Error explainer3.JPG" alt="Explanation output" width="500"/>
